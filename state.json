@@ -1,7 +1,7 @@
 {
   "totals": {
     "42": 0,
-    "47": 2
+    "47": 1
   },
   "items": [
     {
@@ -10,13 +10,6 @@
       "address": "60 Avenue de PARIS 33310 LORMONT",
       "rent": null,
       "bedroomCount": 1
-    },
-    {
-      "tool": 47,
-      "id": 16,
-      "address": "13 RUE FRANCISCO FERRER 33700 MERIGNAC",
-      "rent": null,
-      "bedroomCount": 2
     }
   ]
 }
