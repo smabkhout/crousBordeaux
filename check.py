@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 import json
 import os
+import http.client
+import sys
+import urllib.error
 import urllib.request
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
@@ -8,6 +11,11 @@ from urllib.parse import parse_qs, urlparse
 CROUS_URL = os.environ["CROUS_URL"]
 STATE_FILE = Path("state.json")
 TOOL_IDS = [42, 47]
+
+TRANSIENT_STATUSES = {403, 408, 425, 429, 500, 502, 503, 504, 520, 521, 522, 523, 524}
+
+class SiteUnavailable(Exception):
+    pass
 
 parsed = urlparse(CROUS_URL)
 bounds_raw = parse_qs(parsed.query)["bounds"][0]
@@ -36,8 +44,20 @@ def query(tool_id):
         headers={"Content-Type": "application/json"},
         method="POST",
     )
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        data = json.load(resp)
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            raw = resp.read()
+    except urllib.error.HTTPError as exc:
+        if exc.code in TRANSIENT_STATUSES:
+            raise SiteUnavailable(f"tool {tool_id}: HTTP {exc.code}") from exc
+        raise
+    except (urllib.error.URLError, TimeoutError, http.client.HTTPException) as exc:
+        raise SiteUnavailable(f"tool {tool_id}: {type(exc).__name__} {exc}") from exc
+    
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as exc:
+        raise SiteUnavailable(f"tool {tool_id}: non-JSON response") from exc
     results = data.get("results", {})
     total = results.get("total", {}).get("value", 0)
     items = [
@@ -55,11 +75,16 @@ def query(tool_id):
 
 totals = {}
 items = []
-for tid in TOOL_IDS:
-    t, its = query(tid)
-    totals[str(tid)] = t
-    items.extend(its)
 
+try:
+    for tid in TOOL_IDS:
+        t, its = query(tid)
+        totals[str(tid)] = t
+        items.extend(its)
+except SiteUnavailable as exc:
+    print(f"skipping run, site unavailable: {exc}", file=sys.stderr)
+    sys.exit(0)
+    
 previous_totals = None
 if STATE_FILE.exists():
     prev = json.loads(STATE_FILE.read_text())
