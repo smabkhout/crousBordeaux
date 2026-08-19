@@ -10,7 +10,7 @@ from urllib.parse import parse_qs, urlparse
 
 CROUS_URL = os.environ["CROUS_URL"]
 STATE_FILE = Path("state.json")
-TOOL_IDS = [42, 47]
+TOOL_IDS = [47]
 
 TRANSIENT_STATUSES = {403, 408, 425, 429, 500, 502, 503, 504, 520, 521, 522, 523, 524}
 
