@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 4
+    "47": 3
   },
   "items": [
     {
@@ -26,14 +26,6 @@
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244"
-    },
-    {
-      "tool": 47,
-      "id": 970,
-      "address": "99-101 COURS DE LA MARNE 33000 BORDEAUX",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/970"
     }
   ]
 }
