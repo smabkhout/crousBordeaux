@@ -13,14 +13,6 @@
     },
     {
       "tool": 47,
-      "id": 248,
-      "address": "57 RUE SAINT JAMES 33000 bordeaux",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/248"
-    },
-    {
-      "tool": 47,
       "id": 2581,
       "address": "10 Lucie Aubrac 33600 PESSAC",
       "rent": null,
@@ -29,11 +21,11 @@
     },
     {
       "tool": 47,
-      "id": 138,
-      "address": "Allée Ausone / Avenue Léon Duguit 33600 PESSAC",
+      "id": 248,
+      "address": "57 RUE SAINT JAMES 33000 bordeaux",
       "rent": null,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/138"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/248"
     },
     {
       "tool": 47,
@@ -50,6 +42,14 @@
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/970"
+    },
+    {
+      "tool": 47,
+      "id": 138,
+      "address": "Allée Ausone / Avenue Léon Duguit 33600 PESSAC",
+      "rent": null,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/138"
     }
   ]
 }
