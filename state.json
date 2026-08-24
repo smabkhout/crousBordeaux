@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 10
+    "47": 9
   },
   "items": [
     {
@@ -13,22 +13,6 @@
     },
     {
       "tool": 47,
-      "id": 219,
-      "address": "87 CRS ARISTIDE BRIAND 33000 BORDEAUX",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/219"
-    },
-    {
-      "tool": 47,
-      "id": 138,
-      "address": "Allée Ausone / Avenue Léon Duguit 33600 PESSAC",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/138"
-    },
-    {
-      "tool": 47,
       "id": 212,
       "address": "87 CRS ARISTIDE BRIAND 33000 BORDEAUX",
       "rent": null,
@@ -37,27 +21,11 @@
     },
     {
       "tool": 47,
-      "id": 248,
-      "address": "57 RUE SAINT JAMES 33000 bordeaux",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/248"
-    },
-    {
-      "tool": 47,
       "id": 3244,
       "address": "64 boulevard des frères MOGA 33800 BORDEAUX",
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244"
-    },
-    {
-      "tool": 47,
-      "id": 1541,
-      "address": "10 rue Robert ESCARPIT 33600 PESSAC",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1541"
     },
     {
       "tool": 47,
@@ -74,6 +42,30 @@
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/970"
+    },
+    {
+      "tool": 47,
+      "id": 138,
+      "address": "Allée Ausone / Avenue Léon Duguit 33600 PESSAC",
+      "rent": null,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/138"
+    },
+    {
+      "tool": 47,
+      "id": 248,
+      "address": "57 RUE SAINT JAMES 33000 bordeaux",
+      "rent": null,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/248"
+    },
+    {
+      "tool": 47,
+      "id": 219,
+      "address": "87 CRS ARISTIDE BRIAND 33000 BORDEAUX",
+      "rent": null,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/219"
     },
     {
       "tool": 47,
