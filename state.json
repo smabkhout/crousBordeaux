@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 9
+    "47": 7
   },
   "items": [
     {
@@ -10,14 +10,6 @@
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2581"
-    },
-    {
-      "tool": 47,
-      "id": 212,
-      "address": "87 CRS ARISTIDE BRIAND 33000 BORDEAUX",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/212"
     },
     {
       "tool": 47,
@@ -58,14 +50,6 @@
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/248"
-    },
-    {
-      "tool": 47,
-      "id": 219,
-      "address": "87 CRS ARISTIDE BRIAND 33000 BORDEAUX",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/219"
     },
     {
       "tool": 47,
