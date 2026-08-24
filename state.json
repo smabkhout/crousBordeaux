@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 2
+    "47": 5
   },
   "items": [
     {
@@ -18,6 +18,30 @@
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244"
+    },
+    {
+      "tool": 47,
+      "id": 2581,
+      "address": "10 Lucie Aubrac 33600 PESSAC",
+      "rent": null,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2581"
+    },
+    {
+      "tool": 47,
+      "id": 2617,
+      "address": "13 RUE FRANCISCO FERRER 33700 MERIGNAC",
+      "rent": null,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2617"
+    },
+    {
+      "tool": 47,
+      "id": 1541,
+      "address": "10 rue Robert ESCARPIT 33600 PESSAC",
+      "rent": null,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1541"
     }
   ]
 }
