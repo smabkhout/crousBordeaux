@@ -13,14 +13,6 @@
     },
     {
       "tool": 47,
-      "id": 970,
-      "address": "99-101 COURS DE LA MARNE 33000 BORDEAUX",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/970"
-    },
-    {
-      "tool": 47,
       "id": 248,
       "address": "57 RUE SAINT JAMES 33000 bordeaux",
       "rent": null,
@@ -42,6 +34,14 @@
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244"
+    },
+    {
+      "tool": 47,
+      "id": 970,
+      "address": "99-101 COURS DE LA MARNE 33000 BORDEAUX",
+      "rent": null,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/970"
     }
   ]
 }
