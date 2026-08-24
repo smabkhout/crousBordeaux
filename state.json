@@ -37,11 +37,11 @@
     },
     {
       "tool": 47,
-      "id": 1541,
-      "address": "10 rue Robert ESCARPIT 33600 PESSAC",
+      "id": 219,
+      "address": "87 CRS ARISTIDE BRIAND 33000 BORDEAUX",
       "rent": null,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1541"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/219"
     },
     {
       "tool": 47,
@@ -53,14 +53,6 @@
     },
     {
       "tool": 47,
-      "id": 330,
-      "address": "8 Rue Lucie Aubrac 33600 PESSAC",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/330"
-    },
-    {
-      "tool": 47,
       "id": 212,
       "address": "87 CRS ARISTIDE BRIAND 33000 BORDEAUX",
       "rent": null,
@@ -69,19 +61,27 @@
     },
     {
       "tool": 47,
-      "id": 219,
-      "address": "87 CRS ARISTIDE BRIAND 33000 BORDEAUX",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/219"
-    },
-    {
-      "tool": 47,
       "id": 138,
       "address": "Allée Ausone / Avenue Léon Duguit 33600 PESSAC",
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/138"
+    },
+    {
+      "tool": 47,
+      "id": 330,
+      "address": "8 Rue Lucie Aubrac 33600 PESSAC",
+      "rent": null,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/330"
+    },
+    {
+      "tool": 47,
+      "id": 1541,
+      "address": "10 rue Robert ESCARPIT 33600 PESSAC",
+      "rent": null,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1541"
     }
   ]
 }
