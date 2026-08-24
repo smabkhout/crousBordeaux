@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 6
+    "47": 5
   },
   "items": [
     {
@@ -42,14 +42,6 @@
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/138"
-    },
-    {
-      "tool": 47,
-      "id": 330,
-      "address": "8 Rue Lucie Aubrac 33600 PESSAC",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/330"
     }
   ]
 }
