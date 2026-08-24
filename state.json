@@ -5,19 +5,19 @@
   "items": [
     {
       "tool": 47,
-      "id": 3244,
-      "address": "64 boulevard des frères MOGA 33800 BORDEAUX",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244"
-    },
-    {
-      "tool": 47,
       "id": 249,
       "address": "2 Esplanade des Antilles 33600 PESSAC",
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/249"
+    },
+    {
+      "tool": 47,
+      "id": 3244,
+      "address": "64 boulevard des frères MOGA 33800 BORDEAUX",
+      "rent": null,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244"
     }
   ]
 }
