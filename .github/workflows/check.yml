@@ -20,6 +20,20 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Keep CROUS session alive
+        continue-on-error: true
+        env:
+          COOKIE: ${{ secrets.CROUS_COOKIE }}
+        run: |
+          curl -s --max-time 20 -b "$COOKIE" \
+            -o /tmp/crous.html -w '%{http_code}\n' \
+            https://trouverunlogement.lescrous.fr/
+          if grep -q 'Déconnexion' /tmp/crous.html; then
+            echo "session alive"
+          else
+            echo "::warning::CROUS session appears dead - re-login and update CROUS_COOKIE secret"
+          fi
+
       - name: Check CROUS availability
         id: check
         env:
