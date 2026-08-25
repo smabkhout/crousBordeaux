@@ -29,14 +29,6 @@
     },
     {
       "tool": 47,
-      "id": 394,
-      "address": "Avenue des Facultés 33400 TALENCE",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/394"
-    },
-    {
-      "tool": 47,
       "id": 569,
       "address": "2 avenue Jean Babin 33600 PESSAC",
       "rent": null,
@@ -58,6 +50,14 @@
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/407"
+    },
+    {
+      "tool": 47,
+      "id": 394,
+      "address": "Avenue des Facultés 33400 TALENCE",
+      "rent": null,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/394"
     }
   ]
 }
