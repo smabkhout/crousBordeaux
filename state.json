@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 6
+    "47": 5
   },
   "items": [
     {
@@ -26,14 +26,6 @@
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/248"
-    },
-    {
-      "tool": 47,
-      "id": 394,
-      "address": "Avenue des Facultés 33400 TALENCE",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/394"
     },
     {
       "tool": 47,
