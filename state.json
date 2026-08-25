@@ -21,19 +21,19 @@
     },
     {
       "tool": 47,
-      "id": 407,
-      "address": "Avenue des Facultés 33400 TALENCE",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/407"
-    },
-    {
-      "tool": 47,
       "id": 249,
       "address": "2 Esplanade des Antilles 33600 PESSAC",
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/249"
+    },
+    {
+      "tool": 47,
+      "id": 407,
+      "address": "Avenue des Facultés 33400 TALENCE",
+      "rent": null,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/407"
     },
     {
       "tool": 47,
