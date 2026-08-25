@@ -19,34 +19,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-  
-      - name: Keep CROUS session 1 alive
-        continue-on-error: true
-        env:
-          COOKIE: ${{ secrets.CROUS_COOKIE }}
-        run: |
-          curl -s --max-time 20 -b "$COOKIE" \
-            -o /tmp/crous1.html -w '%{http_code}\n' \
-            https://trouverunlogement.lescrous.fr/
-          if grep -q 'Déconnexion' /tmp/crous1.html; then
-            echo "session 1 alive"
-          else
-            echo "::warning::session 1 dead - re-login and update CROUS_COOKIE"
-          fi
-
-      - name: Keep CROUS session 2 alive
-        continue-on-error: true
-        env:
-          COOKIE: ${{ secrets.CROUS_COOKIE_2 }}
-        run: |
-          curl -s --max-time 20 -b "$COOKIE" \
-            -o /tmp/crous2.html -w '%{http_code}\n' \
-            https://trouverunlogement.lescrous.fr/
-          if grep -q 'Déconnexion' /tmp/crous2.html; then
-            echo "session 2 alive"
-          else
-            echo "::warning::session 2 dead - re-login and update CROUS_COOKIE_2"
-          fi
 
       - name: Check CROUS availability
         id: check
