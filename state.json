@@ -1,15 +1,6 @@
 {
   "totals": {
-    "47": 1
+    "47": 0
   },
-  "items": [
-    {
-      "tool": 47,
-      "id": 449,
-      "address": "2 RUE DE BUDOS 33000 BORDEAUX",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/449"
-    }
-  ]
+  "items": []
 }
