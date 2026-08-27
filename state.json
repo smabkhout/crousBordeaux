@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 2
+    "47": 1
   },
   "items": [
     {
@@ -10,14 +10,6 @@
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/449"
-    },
-    {
-      "tool": 47,
-      "id": 3281,
-      "address": "5 Allée Maine de Biran 33600 PESSAC",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3281"
     }
   ]
 }
