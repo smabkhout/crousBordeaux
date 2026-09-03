@@ -13,14 +13,6 @@
     },
     {
       "tool": 47,
-      "id": 569,
-      "address": "2 avenue Jean Babin 33600 PESSAC",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569"
-    },
-    {
-      "tool": 47,
       "id": 1606,
       "address": "32 - 36 CHEMIN DE POMEROL 33000 BORDEAUX",
       "rent": null,
@@ -34,6 +26,14 @@
       "rent": null,
       "bedroomCount": 2,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/351"
+    },
+    {
+      "tool": 47,
+      "id": 569,
+      "address": "2 avenue Jean Babin 33600 PESSAC",
+      "rent": null,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569"
     }
   ]
 }
