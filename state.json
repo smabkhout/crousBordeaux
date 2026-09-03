@@ -1,23 +1,23 @@
 {
   "totals": {
-    "47": 0
+    "47": 2
   },
   "items": [
     {
       "tool": 47,
-      "id": 3248,
-      "address": "717 Avenue de PARIS 33310 LORMONT",
-      "rent": null,
+      "id": 224,
+      "address": "57 RUE SAINT JAMES 33000 bordeaux",
+      "rent": 41099,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/224"
     },
     {
       "tool": 47,
-      "id": 224,
-      "address": "57 RUE SAINT JAMES 33000 bordeaux",
-      "rent": null,
+      "id": 3248,
+      "address": "717 Avenue de PARIS 33310 LORMONT",
+      "rent": 39000,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/224"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
     }
   ]
 }
