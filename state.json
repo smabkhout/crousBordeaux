@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 4
+    "47": 3
   },
   "items": [
     {
@@ -10,14 +10,6 @@
       "rent": null,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
-    },
-    {
-      "tool": 47,
-      "id": 351,
-      "address": "29 av ABADIE 33100 BORDEAUX",
-      "rent": null,
-      "bedroomCount": 2,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/351"
     },
     {
       "tool": 47,
