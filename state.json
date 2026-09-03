@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 2
+    "47": 1
   },
   "items": [
     {
@@ -10,14 +10,6 @@
       "rent": 39000,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
-    },
-    {
-      "tool": 47,
-      "id": 224,
-      "address": "57 RUE SAINT JAMES 33000 bordeaux",
-      "rent": 41099,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/224"
     }
   ]
 }
