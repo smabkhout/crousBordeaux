@@ -5,14 +5,6 @@
   "items": [
     {
       "tool": 47,
-      "id": 3248,
-      "address": "717 Avenue de PARIS 33310 LORMONT",
-      "rent": 39000,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
-    },
-    {
-      "tool": 47,
       "id": 1971,
       "address": "10 AV PREVOST 33400 TALENCE",
       "rent": 42134,
@@ -26,6 +18,14 @@
       "rent": 39293,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/546"
+    },
+    {
+      "tool": 47,
+      "id": 3248,
+      "address": "717 Avenue de PARIS 33310 LORMONT",
+      "rent": 39000,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
     }
   ]
 }
