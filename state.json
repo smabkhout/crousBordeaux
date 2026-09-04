@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 1
+    "47": 3
   },
   "items": [
     {
@@ -10,6 +10,22 @@
       "rent": 39000,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+    },
+    {
+      "tool": 47,
+      "id": 1971,
+      "address": "10 AV PREVOST 33400 TALENCE",
+      "rent": 42134,
+      "bedroomCount": 4,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1971"
+    },
+    {
+      "tool": 47,
+      "id": 546,
+      "address": "10 AV PREVOST 33400 TALENCE",
+      "rent": 39293,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/546"
     }
   ]
 }
