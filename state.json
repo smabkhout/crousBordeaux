@@ -1,15 +1,15 @@
 {
   "totals": {
-    "47": 4
+    "47": 3
   },
   "items": [
     {
       "tool": 47,
-      "id": 1347,
-      "address": "6 AVENUE HENRI VIZIOZ 33600 PESSAC",
-      "rent": 37403,
+      "id": 2809,
+      "address": "5 Allée Maine de Biran 33600 PESSAC",
+      "rent": 37500,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1347"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2809"
     },
     {
       "tool": 47,
@@ -21,19 +21,11 @@
     },
     {
       "tool": 47,
-      "id": 2809,
-      "address": "5 Allée Maine de Biran 33600 PESSAC",
-      "rent": 37500,
+      "id": 1347,
+      "address": "6 AVENUE HENRI VIZIOZ 33600 PESSAC",
+      "rent": 37403,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2809"
-    },
-    {
-      "tool": 47,
-      "id": 2158,
-      "address": "8 AVENUE HENRI VIZIOZ 33600 PESSAC",
-      "rent": 39518,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2158"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1347"
     }
   ]
 }
