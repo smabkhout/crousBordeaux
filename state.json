@@ -29,14 +29,6 @@
     },
     {
       "tool": 47,
-      "id": 2807,
-      "address": "5 Allée Maine de Biran 33600 PESSAC",
-      "rent": 28200,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2807"
-    },
-    {
-      "tool": 47,
       "id": 2572,
       "address": "10 Lucie Aubrac 33600 PESSAC",
       "rent": 45394,
@@ -50,6 +42,14 @@
       "rent": 26400,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2249"
+    },
+    {
+      "tool": 47,
+      "id": 2807,
+      "address": "5 Allée Maine de Biran 33600 PESSAC",
+      "rent": 28200,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2807"
     }
   ]
 }
