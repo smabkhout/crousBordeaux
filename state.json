@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 3
+    "47": 4
   },
   "items": [
     {
@@ -26,6 +26,14 @@
       "rent": 37806,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/242"
+    },
+    {
+      "tool": 47,
+      "id": 700,
+      "address": "20 avenue de BARDANAC 33600 PESSAC",
+      "rent": 26400,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/700"
     }
   ]
 }
