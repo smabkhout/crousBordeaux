@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 3
+    "47": 4
   },
   "items": [
     {
@@ -13,6 +13,14 @@
     },
     {
       "tool": 47,
+      "id": 2807,
+      "address": "5 Allée Maine de Biran 33600 PESSAC",
+      "rent": 28200,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2807"
+    },
+    {
+      "tool": 47,
       "id": 242,
       "address": "2 Esplanade des Antilles 33600 PESSAC",
       "rent": 37806,
@@ -21,11 +29,11 @@
     },
     {
       "tool": 47,
-      "id": 2807,
-      "address": "5 Allée Maine de Biran 33600 PESSAC",
-      "rent": 28200,
+      "id": 2282,
+      "address": "9 Esplanade des Antilles 33600 PESSAC",
+      "rent": 26400,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2807"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2282"
     }
   ]
 }
