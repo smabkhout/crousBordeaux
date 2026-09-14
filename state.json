@@ -21,19 +21,19 @@
     },
     {
       "tool": 47,
-      "id": 330,
-      "address": "8 Rue Lucie Aubrac 33600 PESSAC",
-      "rent": 39755,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/330"
-    },
-    {
-      "tool": 47,
       "id": 394,
       "address": "Avenue des Facultés 33400 TALENCE",
       "rent": 39937,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/394"
+    },
+    {
+      "tool": 47,
+      "id": 330,
+      "address": "8 Rue Lucie Aubrac 33600 PESSAC",
+      "rent": 39755,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/330"
     }
   ]
 }
