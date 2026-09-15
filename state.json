@@ -21,11 +21,11 @@
     },
     {
       "tool": 47,
-      "id": 1673,
-      "address": "AVENUE COLLEGNO 33400 TALENCE",
+      "id": 679,
+      "address": "20 avenue de BARDANAC 33600 PESSAC",
       "rent": 26400,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1673"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/679"
     },
     {
       "tool": 47,
@@ -37,19 +37,19 @@
     },
     {
       "tool": 47,
-      "id": 679,
-      "address": "20 avenue de BARDANAC 33600 PESSAC",
-      "rent": 26400,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/679"
-    },
-    {
-      "tool": 47,
       "id": 341,
       "address": "29 av ABADIE 33100 BORDEAUX",
       "rent": 38929,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/341"
+    },
+    {
+      "tool": 47,
+      "id": 1673,
+      "address": "AVENUE COLLEGNO 33400 TALENCE",
+      "rent": 26400,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1673"
     }
   ]
 }
