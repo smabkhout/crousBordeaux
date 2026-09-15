@@ -13,14 +13,6 @@
     },
     {
       "tool": 47,
-      "id": 679,
-      "address": "20 avenue de BARDANAC 33600 PESSAC",
-      "rent": 26400,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/679"
-    },
-    {
-      "tool": 47,
       "id": 1673,
       "address": "AVENUE COLLEGNO 33400 TALENCE",
       "rent": 26400,
@@ -29,11 +21,11 @@
     },
     {
       "tool": 47,
-      "id": 330,
-      "address": "8 Rue Lucie Aubrac 33600 PESSAC",
-      "rent": 39755,
+      "id": 679,
+      "address": "20 avenue de BARDANAC 33600 PESSAC",
+      "rent": 26400,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/330"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/679"
     },
     {
       "tool": 47,
@@ -45,11 +37,11 @@
     },
     {
       "tool": 47,
-      "id": 1902,
-      "address": "7 avenue PEY BERLAND 33600 PESSAC",
-      "rent": 26400,
+      "id": 330,
+      "address": "8 Rue Lucie Aubrac 33600 PESSAC",
+      "rent": 39755,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1902"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/330"
     },
     {
       "tool": 47,
@@ -58,6 +50,14 @@
       "rent": 38929,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/341"
+    },
+    {
+      "tool": 47,
+      "id": 1902,
+      "address": "7 avenue PEY BERLAND 33600 PESSAC",
+      "rent": 26400,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1902"
     }
   ]
 }
