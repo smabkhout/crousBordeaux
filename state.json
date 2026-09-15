@@ -13,14 +13,6 @@
     },
     {
       "tool": 47,
-      "id": 1902,
-      "address": "7 avenue PEY BERLAND 33600 PESSAC",
-      "rent": 26400,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1902"
-    },
-    {
-      "tool": 47,
       "id": 105,
       "address": "17 RUE DE BUDOS 33000 BORDEAUX",
       "rent": 40956,
@@ -34,6 +26,14 @@
       "rent": 26400,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/679"
+    },
+    {
+      "tool": 47,
+      "id": 1902,
+      "address": "7 avenue PEY BERLAND 33600 PESSAC",
+      "rent": 26400,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1902"
     }
   ]
 }
