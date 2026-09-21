@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 5
+    "47": 7
   },
   "items": [
     {
@@ -42,6 +42,22 @@
       "rent": 49700,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244"
+    },
+    {
+      "tool": 47,
+      "id": 2805,
+      "address": "8 rue des Tulipiers 33170 GRADIGNAN",
+      "rent": 39486,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2805"
+    },
+    {
+      "tool": 47,
+      "id": 2249,
+      "address": "9 Esplanade des Antilles 33600 PESSAC",
+      "rent": 26400,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2249"
     }
   ]
 }
