@@ -21,11 +21,11 @@
     },
     {
       "tool": 47,
-      "id": 224,
-      "address": "57 RUE SAINT JAMES 33000 bordeaux",
-      "rent": 41099,
+      "id": 2249,
+      "address": "9 Esplanade des Antilles 33600 PESSAC",
+      "rent": 26400,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/224"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2249"
     },
     {
       "tool": 47,
@@ -37,14 +37,6 @@
     },
     {
       "tool": 47,
-      "id": 3244,
-      "address": "64 boulevard des frères MOGA 33800 BORDEAUX",
-      "rent": 49700,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244"
-    },
-    {
-      "tool": 47,
       "id": 2805,
       "address": "8 rue des Tulipiers 33170 GRADIGNAN",
       "rent": 39486,
@@ -53,11 +45,19 @@
     },
     {
       "tool": 47,
-      "id": 2249,
-      "address": "9 Esplanade des Antilles 33600 PESSAC",
-      "rent": 26400,
+      "id": 3244,
+      "address": "64 boulevard des frères MOGA 33800 BORDEAUX",
+      "rent": 49700,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2249"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244"
+    },
+    {
+      "tool": 47,
+      "id": 224,
+      "address": "57 RUE SAINT JAMES 33000 bordeaux",
+      "rent": 41099,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/224"
     }
   ]
 }
