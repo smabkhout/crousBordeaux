@@ -13,14 +13,6 @@
     },
     {
       "tool": 47,
-      "id": 89,
-      "address": "4 CHEMIN PEYDAVANT 33400 TALENCE",
-      "rent": 31016,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/89"
-    },
-    {
-      "tool": 47,
       "id": 970,
       "address": "99-101 COURS DE LA MARNE 33000 BORDEAUX",
       "rent": 43678,
@@ -34,6 +26,14 @@
       "rent": 41099,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/224"
+    },
+    {
+      "tool": 47,
+      "id": 89,
+      "address": "4 CHEMIN PEYDAVANT 33400 TALENCE",
+      "rent": 31016,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/89"
     },
     {
       "tool": 47,
