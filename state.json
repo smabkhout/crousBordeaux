@@ -5,14 +5,6 @@
   "items": [
     {
       "tool": 47,
-      "id": 89,
-      "address": "4 CHEMIN PEYDAVANT 33400 TALENCE",
-      "rent": 31016,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/89"
-    },
-    {
-      "tool": 47,
       "id": 3244,
       "address": "64 boulevard des frères MOGA 33800 BORDEAUX",
       "rent": 49700,
@@ -42,6 +34,14 @@
       "rent": 40956,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/105"
+    },
+    {
+      "tool": 47,
+      "id": 89,
+      "address": "4 CHEMIN PEYDAVANT 33400 TALENCE",
+      "rent": 31016,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/89"
     }
   ]
 }
