@@ -13,14 +13,6 @@
     },
     {
       "tool": 47,
-      "id": 224,
-      "address": "57 RUE SAINT JAMES 33000 bordeaux",
-      "rent": 41099,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/224"
-    },
-    {
-      "tool": 47,
       "id": 3244,
       "address": "64 boulevard des frères MOGA 33800 BORDEAUX",
       "rent": 49700,
@@ -42,6 +34,14 @@
       "rent": 40956,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/105"
+    },
+    {
+      "tool": 47,
+      "id": 224,
+      "address": "57 RUE SAINT JAMES 33000 bordeaux",
+      "rent": 41099,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/224"
     }
   ]
 }
