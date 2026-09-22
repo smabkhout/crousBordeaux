@@ -1,6 +1,15 @@
 {
   "totals": {
-    "47": 0
+    "47": 1
   },
-  "items": []
+  "items": [
+    {
+      "tool": 47,
+      "id": 3246,
+      "address": "1 Allée Paul Pascal Pessac 33600 PESSAC",
+      "rent": 40822,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3246"
+    }
+  ]
 }
