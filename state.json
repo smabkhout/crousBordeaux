@@ -13,19 +13,19 @@
     },
     {
       "tool": 47,
-      "id": 138,
-      "address": "Allée Ausone / Avenue Léon Duguit 33600 PESSAC",
-      "rent": 40623,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/138"
-    },
-    {
-      "tool": 47,
       "id": 3246,
       "address": "1 Allée Paul Pascal Pessac 33600 PESSAC",
       "rent": 40822,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3246"
+    },
+    {
+      "tool": 47,
+      "id": 138,
+      "address": "Allée Ausone / Avenue Léon Duguit 33600 PESSAC",
+      "rent": 40623,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/138"
     },
     {
       "tool": 47,
