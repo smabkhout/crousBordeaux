@@ -5,14 +5,6 @@
   "items": [
     {
       "tool": 47,
-      "id": 2282,
-      "address": "9 Esplanade des Antilles 33600 PESSAC",
-      "rent": 26400,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2282"
-    },
-    {
-      "tool": 47,
       "id": 1640,
       "address": "32 - 36 CHEMIN DE POMEROL 33000 BORDEAUX",
       "rent": 28320,
@@ -66,6 +58,14 @@
       "rent": 26400,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1902"
+    },
+    {
+      "tool": 47,
+      "id": 2282,
+      "address": "9 Esplanade des Antilles 33600 PESSAC",
+      "rent": 26400,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2282"
     }
   ]
 }
