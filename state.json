@@ -37,14 +37,6 @@
     },
     {
       "tool": 47,
-      "id": 2282,
-      "address": "9 Esplanade des Antilles 33600 PESSAC",
-      "rent": 26400,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2282"
-    },
-    {
-      "tool": 47,
       "id": 3248,
       "address": "717 Avenue de PARIS 33310 LORMONT",
       "rent": 39000,
@@ -66,6 +58,14 @@
       "rent": 26400,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1902"
+    },
+    {
+      "tool": 47,
+      "id": 2282,
+      "address": "9 Esplanade des Antilles 33600 PESSAC",
+      "rent": 26400,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2282"
     }
   ]
 }
