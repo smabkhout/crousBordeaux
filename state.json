@@ -21,14 +21,6 @@
     },
     {
       "tool": 47,
-      "id": 2249,
-      "address": "9 Esplanade des Antilles 33600 PESSAC",
-      "rent": 26400,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2249"
-    },
-    {
-      "tool": 47,
       "id": 89,
       "address": "4 CHEMIN PEYDAVANT 33400 TALENCE",
       "rent": 62032,
@@ -53,6 +45,14 @@
     },
     {
       "tool": 47,
+      "id": 1902,
+      "address": "7 avenue PEY BERLAND 33600 PESSAC",
+      "rent": 26400,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1902"
+    },
+    {
+      "tool": 47,
       "id": 330,
       "address": "8 Rue Lucie Aubrac 33600 PESSAC",
       "rent": 39755,
@@ -61,11 +61,11 @@
     },
     {
       "tool": 47,
-      "id": 1902,
-      "address": "7 avenue PEY BERLAND 33600 PESSAC",
+      "id": 2249,
+      "address": "9 Esplanade des Antilles 33600 PESSAC",
       "rent": 26400,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1902"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2249"
     }
   ]
 }
