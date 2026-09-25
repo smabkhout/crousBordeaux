@@ -37,14 +37,6 @@
     },
     {
       "tool": 47,
-      "id": 330,
-      "address": "8 Rue Lucie Aubrac 33600 PESSAC",
-      "rent": 39755,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/330"
-    },
-    {
-      "tool": 47,
       "id": 1902,
       "address": "7 avenue PEY BERLAND 33600 PESSAC",
       "rent": 26400,
@@ -74,6 +66,14 @@
       "rent": 28320,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1640"
+    },
+    {
+      "tool": 47,
+      "id": 330,
+      "address": "8 Rue Lucie Aubrac 33600 PESSAC",
+      "rent": 39755,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/330"
     }
   ]
 }
