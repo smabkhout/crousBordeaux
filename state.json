@@ -37,19 +37,19 @@
     },
     {
       "tool": 47,
-      "id": 330,
-      "address": "8 Rue Lucie Aubrac 33600 PESSAC",
-      "rent": 39755,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/330"
-    },
-    {
-      "tool": 47,
       "id": 1640,
       "address": "32 - 36 CHEMIN DE POMEROL 33000 BORDEAUX",
       "rent": 28320,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1640"
+    },
+    {
+      "tool": 47,
+      "id": 330,
+      "address": "8 Rue Lucie Aubrac 33600 PESSAC",
+      "rent": 39755,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/330"
     },
     {
       "tool": 47,
@@ -61,19 +61,19 @@
     },
     {
       "tool": 47,
-      "id": 700,
-      "address": "20 avenue de BARDANAC 33600 PESSAC",
-      "rent": 26400,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/700"
-    },
-    {
-      "tool": 47,
       "id": 3248,
       "address": "717 Avenue de PARIS 33310 LORMONT",
       "rent": 39000,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+    },
+    {
+      "tool": 47,
+      "id": 700,
+      "address": "20 avenue de BARDANAC 33600 PESSAC",
+      "rent": 26400,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/700"
     }
   ]
 }
