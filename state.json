@@ -37,14 +37,6 @@
     },
     {
       "tool": 47,
-      "id": 700,
-      "address": "20 avenue de BARDANAC 33600 PESSAC",
-      "rent": 26400,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/700"
-    },
-    {
-      "tool": 47,
       "id": 2282,
       "address": "9 Esplanade des Antilles 33600 PESSAC",
       "rent": 26400,
@@ -74,6 +66,14 @@
       "rent": 26400,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1902"
+    },
+    {
+      "tool": 47,
+      "id": 700,
+      "address": "20 avenue de BARDANAC 33600 PESSAC",
+      "rent": 26400,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/700"
     }
   ]
 }
