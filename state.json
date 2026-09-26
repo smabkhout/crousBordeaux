@@ -5,6 +5,14 @@
   "items": [
     {
       "tool": 47,
+      "id": 584,
+      "address": "2 avenue Jean Babin 33600 PESSAC",
+      "rent": 37925,
+      "bedroomCount": 4,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/584"
+    },
+    {
+      "tool": 47,
       "id": 89,
       "address": "4 CHEMIN PEYDAVANT 33400 TALENCE",
       "rent": 62032,
@@ -18,14 +26,6 @@
       "rent": 26400,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2282"
-    },
-    {
-      "tool": 47,
-      "id": 584,
-      "address": "2 avenue Jean Babin 33600 PESSAC",
-      "rent": 37925,
-      "bedroomCount": 4,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/584"
     },
     {
       "tool": 47,
