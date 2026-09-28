@@ -29,14 +29,6 @@
     },
     {
       "tool": 47,
-      "id": 700,
-      "address": "20 avenue de BARDANAC 33600 PESSAC",
-      "rent": 26400,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/700"
-    },
-    {
-      "tool": 47,
       "id": 89,
       "address": "4 CHEMIN PEYDAVANT 33400 TALENCE",
       "rent": 62032,
@@ -45,11 +37,11 @@
     },
     {
       "tool": 47,
-      "id": 569,
-      "address": "2 avenue Jean Babin 33600 PESSAC",
-      "rent": 45856,
+      "id": 700,
+      "address": "20 avenue de BARDANAC 33600 PESSAC",
+      "rent": 26400,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/700"
     },
     {
       "tool": 47,
@@ -58,6 +50,14 @@
       "rent": 26400,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2249"
+    },
+    {
+      "tool": 47,
+      "id": 569,
+      "address": "2 avenue Jean Babin 33600 PESSAC",
+      "rent": 45856,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569"
     }
   ]
 }
