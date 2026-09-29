@@ -21,6 +21,14 @@
     },
     {
       "tool": 47,
+      "id": 569,
+      "address": "2 avenue Jean Babin 33600 PESSAC",
+      "rent": 45856,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569"
+    },
+    {
+      "tool": 47,
       "id": 584,
       "address": "2 avenue Jean Babin 33600 PESSAC",
       "rent": 37925,
@@ -34,14 +42,6 @@
       "rent": 43678,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/970"
-    },
-    {
-      "tool": 47,
-      "id": 569,
-      "address": "2 avenue Jean Babin 33600 PESSAC",
-      "rent": 45856,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569"
     }
   ]
 }
