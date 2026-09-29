@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 6
+    "47": 5
   },
   "items": [
     {
@@ -21,14 +21,6 @@
     },
     {
       "tool": 47,
-      "id": 569,
-      "address": "2 avenue Jean Babin 33600 PESSAC",
-      "rent": 45856,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569"
-    },
-    {
-      "tool": 47,
       "id": 579,
       "address": "2 avenue Jean Babin 33600 PESSAC",
       "rent": 72151,
@@ -37,19 +29,19 @@
     },
     {
       "tool": 47,
+      "id": 569,
+      "address": "2 avenue Jean Babin 33600 PESSAC",
+      "rent": 45856,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569"
+    },
+    {
+      "tool": 47,
       "id": 970,
       "address": "99-101 COURS DE LA MARNE 33000 BORDEAUX",
       "rent": 43678,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/970"
-    },
-    {
-      "tool": 47,
-      "id": 105,
-      "address": "17 RUE DE BUDOS 33000 BORDEAUX",
-      "rent": 40956,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/105"
     }
   ]
 }
