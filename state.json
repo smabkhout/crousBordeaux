@@ -13,22 +13,6 @@
     },
     {
       "tool": 47,
-      "id": 970,
-      "address": "99-101 COURS DE LA MARNE 33000 BORDEAUX",
-      "rent": 43678,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/970"
-    },
-    {
-      "tool": 47,
-      "id": 569,
-      "address": "2 avenue Jean Babin 33600 PESSAC",
-      "rent": 45856,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569"
-    },
-    {
-      "tool": 47,
       "id": 341,
       "address": "29 av ABADIE 33100 BORDEAUX",
       "rent": 38929,
@@ -42,6 +26,22 @@
       "rent": 37925,
       "bedroomCount": 4,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/584"
+    },
+    {
+      "tool": 47,
+      "id": 970,
+      "address": "99-101 COURS DE LA MARNE 33000 BORDEAUX",
+      "rent": 43678,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/970"
+    },
+    {
+      "tool": 47,
+      "id": 569,
+      "address": "2 avenue Jean Babin 33600 PESSAC",
+      "rent": 45856,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569"
     }
   ]
 }
