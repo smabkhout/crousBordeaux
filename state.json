@@ -13,22 +13,6 @@
     },
     {
       "tool": 47,
-      "id": 89,
-      "address": "4 CHEMIN PEYDAVANT 33400 TALENCE",
-      "rent": 62032,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/89"
-    },
-    {
-      "tool": 47,
-      "id": 105,
-      "address": "17 RUE DE BUDOS 33000 BORDEAUX",
-      "rent": 40956,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/105"
-    },
-    {
-      "tool": 47,
       "id": 569,
       "address": "2 avenue Jean Babin 33600 PESSAC",
       "rent": 45856,
@@ -42,6 +26,22 @@
       "rent": 37925,
       "bedroomCount": 4,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/584"
+    },
+    {
+      "tool": 47,
+      "id": 89,
+      "address": "4 CHEMIN PEYDAVANT 33400 TALENCE",
+      "rent": 62032,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/89"
+    },
+    {
+      "tool": 47,
+      "id": 105,
+      "address": "17 RUE DE BUDOS 33000 BORDEAUX",
+      "rent": 40956,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/105"
     }
   ]
 }
