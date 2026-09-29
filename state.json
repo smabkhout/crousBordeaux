@@ -21,11 +21,11 @@
     },
     {
       "tool": 47,
-      "id": 341,
-      "address": "29 av ABADIE 33100 BORDEAUX",
-      "rent": 38929,
+      "id": 569,
+      "address": "2 avenue Jean Babin 33600 PESSAC",
+      "rent": 45856,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/341"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569"
     },
     {
       "tool": 47,
@@ -37,11 +37,11 @@
     },
     {
       "tool": 47,
-      "id": 569,
-      "address": "2 avenue Jean Babin 33600 PESSAC",
-      "rent": 45856,
+      "id": 341,
+      "address": "29 av ABADIE 33100 BORDEAUX",
+      "rent": 38929,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/341"
     }
   ]
 }
