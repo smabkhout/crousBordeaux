@@ -13,19 +13,19 @@
     },
     {
       "tool": 47,
-      "id": 3027,
-      "address": "9 RUE DE LA LOUISIANE 33800 BORDEAUX",
-      "rent": 49524,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3027"
-    },
-    {
-      "tool": 47,
       "id": 3248,
       "address": "717 Avenue de PARIS 33310 LORMONT",
       "rent": 39000,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+    },
+    {
+      "tool": 47,
+      "id": 3027,
+      "address": "9 RUE DE LA LOUISIANE 33800 BORDEAUX",
+      "rent": 49524,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3027"
     }
   ]
 }
