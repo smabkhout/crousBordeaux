@@ -13,14 +13,6 @@
     },
     {
       "tool": 47,
-      "id": 3248,
-      "address": "717 Avenue de PARIS 33310 LORMONT",
-      "rent": 39000,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
-    },
-    {
-      "tool": 47,
       "id": 584,
       "address": "2 avenue Jean Babin 33600 PESSAC",
       "rent": 37925,
@@ -50,6 +42,14 @@
       "rent": 52367,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/248"
+    },
+    {
+      "tool": 47,
+      "id": 3248,
+      "address": "717 Avenue de PARIS 33310 LORMONT",
+      "rent": 39000,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
     }
   ]
 }
