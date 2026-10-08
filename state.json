@@ -37,14 +37,6 @@
     },
     {
       "tool": 47,
-      "id": 1905,
-      "address": "Allée Ausone / Avenue Léon Duguit 33600 PESSAC",
-      "rent": 40623,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1905"
-    },
-    {
-      "tool": 47,
       "id": 1660,
       "address": "AVENUE COLLEGNO 33400 TALENCE",
       "rent": 26400,
@@ -66,6 +58,14 @@
       "rent": 37806,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/242"
+    },
+    {
+      "tool": 47,
+      "id": 1905,
+      "address": "Allée Ausone / Avenue Léon Duguit 33600 PESSAC",
+      "rent": 40623,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1905"
     }
   ]
 }
