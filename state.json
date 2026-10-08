@@ -37,14 +37,6 @@
     },
     {
       "tool": 47,
-      "id": 1347,
-      "address": "6 AVENUE HENRI VIZIOZ 33600 PESSAC",
-      "rent": 37403,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1347"
-    },
-    {
-      "tool": 47,
       "id": 1660,
       "address": "AVENUE COLLEGNO 33400 TALENCE",
       "rent": 26400,
@@ -58,6 +50,14 @@
       "rent": 37806,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/242"
+    },
+    {
+      "tool": 47,
+      "id": 1347,
+      "address": "6 AVENUE HENRI VIZIOZ 33600 PESSAC",
+      "rent": 37403,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1347"
     }
   ]
 }
