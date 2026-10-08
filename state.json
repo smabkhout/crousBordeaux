@@ -37,14 +37,6 @@
     },
     {
       "tool": 47,
-      "id": 224,
-      "address": "57 RUE SAINT JAMES 33000 bordeaux",
-      "rent": 41099,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/224"
-    },
-    {
-      "tool": 47,
       "id": 242,
       "address": "2 Esplanade des Antilles 33600 PESSAC",
       "rent": 37806,
@@ -58,6 +50,14 @@
       "rent": 39937,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/394"
+    },
+    {
+      "tool": 47,
+      "id": 224,
+      "address": "57 RUE SAINT JAMES 33000 bordeaux",
+      "rent": 41099,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/224"
     }
   ]
 }
