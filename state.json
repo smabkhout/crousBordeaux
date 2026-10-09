@@ -13,14 +13,6 @@
     },
     {
       "tool": 47,
-      "id": 970,
-      "address": "99-101 COURS DE LA MARNE 33000 BORDEAUX",
-      "rent": 43678,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/970"
-    },
-    {
-      "tool": 47,
       "id": 341,
       "address": "29 av ABADIE 33100 BORDEAUX",
       "rent": 38929,
@@ -42,6 +34,14 @@
       "rent": 41099,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/224"
+    },
+    {
+      "tool": 47,
+      "id": 970,
+      "address": "99-101 COURS DE LA MARNE 33000 BORDEAUX",
+      "rent": 43678,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/970"
     }
   ]
 }
