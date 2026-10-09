@@ -61,14 +61,6 @@
     },
     {
       "tool": 47,
-      "id": 1707,
-      "address": "AVENUE COLLEGNO 33400 TALENCE",
-      "rent": 37500,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1707"
-    },
-    {
-      "tool": 47,
       "id": 2617,
       "address": "13 RUE FRANCISCO FERRER 33700 MERIGNAC",
       "rent": 38635,
@@ -90,6 +82,14 @@
       "rent": 37403,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1347"
+    },
+    {
+      "tool": 47,
+      "id": 1707,
+      "address": "AVENUE COLLEGNO 33400 TALENCE",
+      "rent": 37500,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1707"
     }
   ]
 }
