@@ -29,14 +29,6 @@
     },
     {
       "tool": 47,
-      "id": 2617,
-      "address": "13 RUE FRANCISCO FERRER 33700 MERIGNAC",
-      "rent": 38635,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2617"
-    },
-    {
-      "tool": 47,
       "id": 394,
       "address": "Avenue des Facultés 33400 TALENCE",
       "rent": 39937,
@@ -90,6 +82,14 @@
       "rent": 40623,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1905"
+    },
+    {
+      "tool": 47,
+      "id": 2617,
+      "address": "13 RUE FRANCISCO FERRER 33700 MERIGNAC",
+      "rent": 38635,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2617"
     }
   ]
 }
