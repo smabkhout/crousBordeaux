@@ -21,14 +21,6 @@
     },
     {
       "tool": 47,
-      "id": 394,
-      "address": "Avenue des Facultés 33400 TALENCE",
-      "rent": 39937,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/394"
-    },
-    {
-      "tool": 47,
       "id": 341,
       "address": "29 av ABADIE 33100 BORDEAUX",
       "rent": 38929,
@@ -42,14 +34,6 @@
       "rent": 41099,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/224"
-    },
-    {
-      "tool": 47,
-      "id": 1905,
-      "address": "Allée Ausone / Avenue Léon Duguit 33600 PESSAC",
-      "rent": 40623,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1905"
     },
     {
       "tool": 47,
@@ -90,6 +74,22 @@
       "rent": 26400,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1660"
+    },
+    {
+      "tool": 47,
+      "id": 394,
+      "address": "Avenue des Facultés 33400 TALENCE",
+      "rent": 39937,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/394"
+    },
+    {
+      "tool": 47,
+      "id": 1905,
+      "address": "Allée Ausone / Avenue Léon Duguit 33600 PESSAC",
+      "rent": 40623,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1905"
     }
   ]
 }
