@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 1
+    "47": 2
   },
   "items": [
     {
@@ -10,6 +10,14 @@
       "rent": 43678,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/970"
+    },
+    {
+      "tool": 47,
+      "id": 376,
+      "address": "42 rue Sauteyron 33000 BORDEAUX",
+      "rent": 31452,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/376"
     }
   ]
 }
