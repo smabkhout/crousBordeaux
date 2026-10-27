@@ -29,14 +29,6 @@
     },
     {
       "tool": 47,
-      "id": 2805,
-      "address": "8 rue des Tulipiers 33170 GRADIGNAN",
-      "rent": 39486,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2805"
-    },
-    {
-      "tool": 47,
       "id": 224,
       "address": "57 RUE SAINT JAMES 33000 bordeaux",
       "rent": 41099,
@@ -50,6 +42,14 @@
       "rent": 28200,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2270"
+    },
+    {
+      "tool": 47,
+      "id": 2805,
+      "address": "8 rue des Tulipiers 33170 GRADIGNAN",
+      "rent": 39486,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2805"
     }
   ]
 }
