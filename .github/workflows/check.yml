@@ -26,7 +26,35 @@ jobs:
           CROUS_URL: ${{ vars.CROUS_URL }}
         run: python check.py
 
-      - name: Send email on change
+      # Telegram d'abord : c'est l'alerte qui doit sonner le plus vite.
+      # Uniquement sur derivee positive (nouvelles annonces), jamais sur une disparition.
+      - name: Ring Telegram on new listings
+        if: steps.check.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TG_TEXT: ${{ steps.check.outputs.telegram_new }}
+        run: |
+          if [ -z "$TELEGRAM_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo "TELEGRAM_TOKEN ou TELEGRAM_CHAT_ID absent — notification ignoree."
+            exit 0
+          fi
+          printf '%s' "$TG_TEXT" > "$RUNNER_TEMP/tg.txt"
+          code=$(curl -sS -o "$RUNNER_TEMP/tg.out" -w '%{http_code}' \
+            -X POST "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage" \
+            -d chat_id="$TELEGRAM_CHAT_ID" \
+            -d parse_mode=HTML \
+            -d disable_web_page_preview=true \
+            --data-urlencode "text@$RUNNER_TEMP/tg.txt")
+          echo "telegram: HTTP $code"
+          # Le corps peut contenir le token en cas d'erreur d'URL : on ne l'affiche
+          # que filtre, et jamais le token lui-meme.
+          sed "s|$TELEGRAM_TOKEN|***|g" "$RUNNER_TEMP/tg.out" | head -c 400
+          echo
+          [ "$code" = "200" ]
+
+      - name: Send email on new listings
         if: steps.check.outputs.changed == 'true'
         uses: dawidd6/action-send-mail@v3
         with:
@@ -35,20 +63,57 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          from: BORDEAUX-CROUS Watcher <${{ secrets.MAIL_USERNAME }}>
+          from: CROUS Bordeaux <${{ secrets.MAIL_USERNAME }}>
           to: ${{ secrets.MAIL_USERNAME }}
           bcc: ${{ secrets.MAIL_TO }}
-          subject: "CROUS availability changed: ${{ steps.check.outputs.previous }} → ${{ steps.check.outputs.total }}"
+          subject: ${{ steps.check.outputs.subject_new }}
+          body: ${{ steps.check.outputs.text_new }}
+          html_body: ${{ steps.check.outputs.html_new }}
+
+      # Derivee negative : pas de sonnerie, juste la trace de la duree de vie.
+      - name: Send email when listings disappear
+        if: steps.check.outputs.gone == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: CROUS Bordeaux <${{ secrets.MAIL_USERNAME }}>
+          to: ${{ secrets.MAIL_USERNAME }}
+          bcc: ${{ secrets.MAIL_TO }}
+          subject: ${{ steps.check.outputs.subject_gone }}
+          body: ${{ steps.check.outputs.text_gone }}
+          html_body: ${{ steps.check.outputs.html_gone }}
+
+      - name: Send email when the CROUS campaign is closed
+        if: steps.check.outputs.campaign_closed == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: CROUS Bordeaux <${{ secrets.MAIL_USERNAME }}>
+          to: ${{ secrets.MAIL_USERNAME }}
+          bcc: ${{ secrets.MAIL_TO }}
+          subject: "CROUS · campagne terminée, la surveillance est à l'arrêt"
           body: |
-            New accommodations available in your CROUS search zone!
-          
-            Previous: ${{ steps.check.outputs.previous }}
-            Now:      ${{ steps.check.outputs.total }}
-          
-            📋 Available Listings:
-            ${{ steps.check.outputs.items }}
-          
-            🌍 View all listings: ${{ vars.CROUS_URL }}
+            La campagne surveillée (tool ${{ steps.check.outputs.tools }}) n'existe plus :
+            l'API répond 404. Plus aucune alerte ne partira tant que CROUS_URL
+            n'aura pas été mise à jour.
+
+            À faire :
+              1. Ouvrir https://trouverunlogement.lescrous.fr
+              2. Recadrer la carte sur la zone voulue
+              3. Copier l'URL complète de la barre d'adresse
+              4. La coller dans Settings > Secrets and variables > Actions
+                 > onglet Variables > CROUS_URL
+
+            Ce message n'est envoyé qu'une seule fois, pas à chaque vérification.
+
       - name: Commit state
         run: |
           if [ -z "$(git status --porcelain state.json)" ]; then
