@@ -10,7 +10,7 @@ from urllib.parse import parse_qs, urlparse
 
 CROUS_URL = os.environ["CROUS_URL"]
 STATE_FILE = Path("state.json")
-TOOL_IDS = [47]
+TOOL_IDS = [47, 48]
 
 TRANSIENT_STATUSES = {400, 403, 408, 425, 429, 500, 502, 503, 504, 520, 521, 522, 523, 524}
 
@@ -119,3 +119,4 @@ if gh_output:
         ]
         summary = "\n".join(summary_lines) if summary_lines else "(no listings)"
         f.write("items<<EOF\n" + summary + "\nEOF\n")
+
