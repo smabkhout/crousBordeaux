@@ -46,14 +46,6 @@
     },
     {
       "tool": 48,
-      "id": 768,
-      "address": "42 rue Sauteyron 33000 BORDEAUX",
-      "rent": 64153,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/768"
-    },
-    {
-      "tool": 48,
       "id": 224,
       "address": "57 RUE SAINT JAMES 33000 bordeaux",
       "rent": 41099,
@@ -107,6 +99,14 @@
       "rent": 40623,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1905"
+    },
+    {
+      "tool": 48,
+      "id": 768,
+      "address": "42 rue Sauteyron 33000 BORDEAUX",
+      "rent": 64153,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/768"
     }
   ]
 }
