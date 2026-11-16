@@ -3,11 +3,10 @@
   "not_found_streak": 0,
   "totals": {
     "Talence (33400)": 0,
-    "Pessac (33600)": 2
+    "Pessac (33600)": 1
   },
   "seen_ids": [
-    "145",
-    "330"
+    "145"
   ],
   "items": [
     {
@@ -17,14 +16,6 @@
       "rent": 62505,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/145"
-    },
-    {
-      "tool": 48,
-      "id": 330,
-      "address": "8 Rue Lucie Aubrac 33600 PESSAC",
-      "rent": 39755,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/330"
     }
   ]
 }
