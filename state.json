@@ -70,14 +70,6 @@
     },
     {
       "tool": 48,
-      "id": 341,
-      "address": "29 av ABADIE 33100 BORDEAUX",
-      "rent": 38929,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/341"
-    },
-    {
-      "tool": 48,
       "id": 1902,
       "address": "7 avenue PEY BERLAND 33600 PESSAC",
       "rent": 26400,
@@ -107,6 +99,14 @@
       "rent": 39486,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2805"
+    },
+    {
+      "tool": 48,
+      "id": 341,
+      "address": "29 av ABADIE 33100 BORDEAUX",
+      "rent": 38929,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/341"
     }
   ]
 }
