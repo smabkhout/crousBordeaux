@@ -1,7 +1,7 @@
 {
   "totals": {
     "47": 0,
-    "48": 16
+    "48": 17
   },
   "items": [
     {
@@ -78,19 +78,19 @@
     },
     {
       "tool": 48,
-      "id": 1566,
-      "address": "10 rue Robert ESCARPIT 33600 PESSAC",
-      "rent": 35779,
-      "bedroomCount": 4,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1566"
-    },
-    {
-      "tool": 48,
       "id": 394,
       "address": "Avenue des Facultés 33400 TALENCE",
       "rent": 39937,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/394"
+    },
+    {
+      "tool": 48,
+      "id": 1566,
+      "address": "10 rue Robert ESCARPIT 33600 PESSAC",
+      "rent": 35779,
+      "bedroomCount": 4,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1566"
     },
     {
       "tool": 48,
@@ -131,6 +131,14 @@
       "rent": 26400,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2249"
+    },
+    {
+      "tool": 48,
+      "id": 700,
+      "address": "20 avenue de BARDANAC 33600 PESSAC",
+      "rent": 26400,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/700"
     }
   ]
 }
