@@ -30,14 +30,6 @@
     },
     {
       "tool": 48,
-      "id": 330,
-      "address": "8 Rue Lucie Aubrac 33600 PESSAC",
-      "rent": 39755,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/330"
-    },
-    {
-      "tool": 48,
       "id": 105,
       "address": "17 RUE DE BUDOS 33000 BORDEAUX",
       "rent": 40956,
@@ -107,6 +99,14 @@
       "rent": 41099,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/224"
+    },
+    {
+      "tool": 48,
+      "id": 330,
+      "address": "8 Rue Lucie Aubrac 33600 PESSAC",
+      "rent": 39755,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/330"
     }
   ]
 }
