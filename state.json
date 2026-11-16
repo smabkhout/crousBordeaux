@@ -102,14 +102,6 @@
     },
     {
       "tool": 48,
-      "id": 768,
-      "address": "42 rue Sauteyron 33000 BORDEAUX",
-      "rent": 32077,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/768"
-    },
-    {
-      "tool": 48,
       "id": 1660,
       "address": "AVENUE COLLEGNO 33400 TALENCE",
       "rent": 26400,
@@ -139,6 +131,14 @@
       "rent": 26400,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/700"
+    },
+    {
+      "tool": 48,
+      "id": 768,
+      "address": "42 rue Sauteyron 33000 BORDEAUX",
+      "rent": 32077,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/768"
     }
   ]
 }
