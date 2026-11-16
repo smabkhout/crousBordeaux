@@ -1,7 +1,7 @@
 {
   "totals": {
     "47": 0,
-    "48": 3
+    "48": 5
   },
   "items": [
     {
@@ -27,6 +27,22 @@
       "rent": 49700,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/3244"
+    },
+    {
+      "tool": 48,
+      "id": 2572,
+      "address": "10 Lucie Aubrac 33600 PESSAC",
+      "rent": 45394,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2572"
+    },
+    {
+      "tool": 48,
+      "id": 341,
+      "address": "29 av ABADIE 33100 BORDEAUX",
+      "rent": 38929,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/341"
     }
   ]
 }
