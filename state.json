@@ -38,14 +38,6 @@
     },
     {
       "tool": 48,
-      "id": 394,
-      "address": "Avenue des Facultés 33400 TALENCE",
-      "rent": 39937,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/394"
-    },
-    {
-      "tool": 48,
       "id": 1566,
       "address": "10 rue Robert ESCARPIT 33600 PESSAC",
       "rent": 35779,
@@ -62,35 +54,19 @@
     },
     {
       "tool": 48,
+      "id": 394,
+      "address": "Avenue des Facultés 33400 TALENCE",
+      "rent": 39937,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/394"
+    },
+    {
+      "tool": 48,
       "id": 1905,
       "address": "Allée Ausone / Avenue Léon Duguit 33600 PESSAC",
       "rent": 40623,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1905"
-    },
-    {
-      "tool": 48,
-      "id": 3248,
-      "address": "717 Avenue de PARIS 33310 LORMONT",
-      "rent": 39000,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/3248"
-    },
-    {
-      "tool": 48,
-      "id": 531,
-      "address": "10 AV PREVOST 33400 TALENCE",
-      "rent": 37439,
-      "bedroomCount": 4,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/531"
-    },
-    {
-      "tool": 48,
-      "id": 341,
-      "address": "29 av ABADIE 33100 BORDEAUX",
-      "rent": 38929,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/341"
     },
     {
       "tool": 48,
@@ -110,6 +86,30 @@
     },
     {
       "tool": 48,
+      "id": 3248,
+      "address": "717 Avenue de PARIS 33310 LORMONT",
+      "rent": 39000,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/3248"
+    },
+    {
+      "tool": 48,
+      "id": 531,
+      "address": "10 AV PREVOST 33400 TALENCE",
+      "rent": 37439,
+      "bedroomCount": 4,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/531"
+    },
+    {
+      "tool": 48,
+      "id": 700,
+      "address": "20 avenue de BARDANAC 33600 PESSAC",
+      "rent": 26400,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/700"
+    },
+    {
+      "tool": 48,
       "id": 2249,
       "address": "9 Esplanade des Antilles 33600 PESSAC",
       "rent": 26400,
@@ -126,19 +126,19 @@
     },
     {
       "tool": 48,
-      "id": 700,
-      "address": "20 avenue de BARDANAC 33600 PESSAC",
-      "rent": 26400,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/700"
-    },
-    {
-      "tool": 48,
       "id": 1483,
       "address": "AVENUE COLLEGNO 33400 TALENCE",
       "rent": 28200,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1483"
+    },
+    {
+      "tool": 48,
+      "id": 341,
+      "address": "29 av ABADIE 33100 BORDEAUX",
+      "rent": 38929,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/341"
     },
     {
       "tool": 48,
