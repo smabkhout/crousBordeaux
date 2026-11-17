@@ -1,7 +1,7 @@
 {
   "totals": {
     "47": 0,
-    "48": 14
+    "48": 16
   },
   "items": [
     {
@@ -115,6 +115,22 @@
       "rent": 40623,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1905"
+    },
+    {
+      "tool": 48,
+      "id": 2249,
+      "address": "9 Esplanade des Antilles 33600 PESSAC",
+      "rent": 26400,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2249"
+    },
+    {
+      "tool": 48,
+      "id": 2282,
+      "address": "9 Esplanade des Antilles 33600 PESSAC",
+      "rent": 26400,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2282"
     }
   ]
 }
