@@ -54,14 +54,6 @@
     },
     {
       "tool": 48,
-      "id": 341,
-      "address": "29 av ABADIE 33100 BORDEAUX",
-      "rent": 38929,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/341"
-    },
-    {
-      "tool": 48,
       "id": 224,
       "address": "57 RUE SAINT JAMES 33000 bordeaux",
       "rent": 41099,
@@ -78,14 +70,6 @@
     },
     {
       "tool": 48,
-      "id": 394,
-      "address": "Avenue des Facultés 33400 TALENCE",
-      "rent": 39937,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/394"
-    },
-    {
-      "tool": 48,
       "id": 1566,
       "address": "10 rue Robert ESCARPIT 33600 PESSAC",
       "rent": 35779,
@@ -99,6 +83,14 @@
       "rent": 26400,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1902"
+    },
+    {
+      "tool": 48,
+      "id": 394,
+      "address": "Avenue des Facultés 33400 TALENCE",
+      "rent": 39937,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/394"
     },
     {
       "tool": 48,
@@ -131,6 +123,14 @@
       "rent": 26400,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/700"
+    },
+    {
+      "tool": 48,
+      "id": 341,
+      "address": "29 av ABADIE 33100 BORDEAUX",
+      "rent": 38929,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/341"
     }
   ]
 }
