@@ -126,14 +126,6 @@
     },
     {
       "tool": 48,
-      "id": 1606,
-      "address": "32 - 36 CHEMIN DE POMEROL 33000 BORDEAUX",
-      "rent": 46049,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1606"
-    },
-    {
-      "tool": 48,
       "id": 1483,
       "address": "AVENUE COLLEGNO 33400 TALENCE",
       "rent": 28200,
@@ -147,6 +139,14 @@
       "rent": 39937,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/394"
+    },
+    {
+      "tool": 48,
+      "id": 1606,
+      "address": "32 - 36 CHEMIN DE POMEROL 33000 BORDEAUX",
+      "rent": 46049,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1606"
     }
   ]
 }
