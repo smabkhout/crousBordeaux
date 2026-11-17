@@ -62,22 +62,6 @@
     },
     {
       "tool": 48,
-      "id": 105,
-      "address": "17 RUE DE BUDOS 33000 BORDEAUX",
-      "rent": 40956,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/105"
-    },
-    {
-      "tool": 48,
-      "id": 2805,
-      "address": "8 rue des Tulipiers 33170 GRADIGNAN",
-      "rent": 39486,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2805"
-    },
-    {
-      "tool": 48,
       "id": 3248,
       "address": "717 Avenue de PARIS 33310 LORMONT",
       "rent": 39000,
@@ -94,11 +78,19 @@
     },
     {
       "tool": 48,
-      "id": 700,
-      "address": "20 avenue de BARDANAC 33600 PESSAC",
-      "rent": 26400,
+      "id": 105,
+      "address": "17 RUE DE BUDOS 33000 BORDEAUX",
+      "rent": 40956,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/700"
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/105"
+    },
+    {
+      "tool": 48,
+      "id": 2805,
+      "address": "8 rue des Tulipiers 33170 GRADIGNAN",
+      "rent": 39486,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2805"
     },
     {
       "tool": 48,
@@ -118,11 +110,11 @@
     },
     {
       "tool": 48,
-      "id": 1483,
-      "address": "AVENUE COLLEGNO 33400 TALENCE",
-      "rent": 28200,
+      "id": 700,
+      "address": "20 avenue de BARDANAC 33600 PESSAC",
+      "rent": 26400,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1483"
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/700"
     },
     {
       "tool": 48,
@@ -147,6 +139,14 @@
       "rent": 39937,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/394"
+    },
+    {
+      "tool": 48,
+      "id": 1483,
+      "address": "AVENUE COLLEGNO 33400 TALENCE",
+      "rent": 28200,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1483"
     }
   ]
 }
