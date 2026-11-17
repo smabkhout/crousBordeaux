@@ -1,7 +1,7 @@
 {
   "totals": {
     "47": 0,
-    "48": 13
+    "48": 14
   },
   "items": [
     {
@@ -94,6 +94,14 @@
     },
     {
       "tool": 48,
+      "id": 224,
+      "address": "57 RUE SAINT JAMES 33000 bordeaux",
+      "rent": 41099,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/224"
+    },
+    {
+      "tool": 48,
       "id": 341,
       "address": "29 av ABADIE 33100 BORDEAUX",
       "rent": 38929,
@@ -102,11 +110,11 @@
     },
     {
       "tool": 48,
-      "id": 224,
-      "address": "57 RUE SAINT JAMES 33000 bordeaux",
-      "rent": 41099,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/224"
+      "id": 531,
+      "address": "10 AV PREVOST 33400 TALENCE",
+      "rent": 37439,
+      "bedroomCount": 4,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/531"
     }
   ]
 }
