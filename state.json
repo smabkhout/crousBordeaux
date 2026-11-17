@@ -38,6 +38,14 @@
     },
     {
       "tool": 48,
+      "id": 394,
+      "address": "Avenue des Facultés 33400 TALENCE",
+      "rent": 39937,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/394"
+    },
+    {
+      "tool": 48,
       "id": 1566,
       "address": "10 rue Robert ESCARPIT 33600 PESSAC",
       "rent": 35779,
@@ -54,35 +62,11 @@
     },
     {
       "tool": 48,
-      "id": 394,
-      "address": "Avenue des Facultés 33400 TALENCE",
-      "rent": 39937,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/394"
-    },
-    {
-      "tool": 48,
       "id": 1905,
       "address": "Allée Ausone / Avenue Léon Duguit 33600 PESSAC",
       "rent": 40623,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1905"
-    },
-    {
-      "tool": 48,
-      "id": 105,
-      "address": "17 RUE DE BUDOS 33000 BORDEAUX",
-      "rent": 40956,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/105"
-    },
-    {
-      "tool": 48,
-      "id": 2805,
-      "address": "8 rue des Tulipiers 33170 GRADIGNAN",
-      "rent": 39486,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2805"
     },
     {
       "tool": 48,
@@ -110,11 +94,19 @@
     },
     {
       "tool": 48,
-      "id": 700,
-      "address": "20 avenue de BARDANAC 33600 PESSAC",
-      "rent": 26400,
+      "id": 105,
+      "address": "17 RUE DE BUDOS 33000 BORDEAUX",
+      "rent": 40956,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/700"
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/105"
+    },
+    {
+      "tool": 48,
+      "id": 2805,
+      "address": "8 rue des Tulipiers 33170 GRADIGNAN",
+      "rent": 39486,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2805"
     },
     {
       "tool": 48,
@@ -134,11 +126,11 @@
     },
     {
       "tool": 48,
-      "id": 1606,
-      "address": "32 - 36 CHEMIN DE POMEROL 33000 BORDEAUX",
-      "rent": 46049,
+      "id": 700,
+      "address": "20 avenue de BARDANAC 33600 PESSAC",
+      "rent": 26400,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1606"
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/700"
     },
     {
       "tool": 48,
@@ -147,6 +139,14 @@
       "rent": 28200,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1483"
+    },
+    {
+      "tool": 48,
+      "id": 1606,
+      "address": "32 - 36 CHEMIN DE POMEROL 33000 BORDEAUX",
+      "rent": 46049,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1606"
     }
   ]
 }
