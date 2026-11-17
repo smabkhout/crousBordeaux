@@ -22,14 +22,6 @@
     },
     {
       "tool": 48,
-      "id": 224,
-      "address": "57 RUE SAINT JAMES 33000 bordeaux",
-      "rent": 41099,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/224"
-    },
-    {
-      "tool": 48,
       "id": 449,
       "address": "2 RUE DE BUDOS 33000 BORDEAUX",
       "rent": 35172,
@@ -99,6 +91,14 @@
       "rent": 26400,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1902"
+    },
+    {
+      "tool": 48,
+      "id": 224,
+      "address": "57 RUE SAINT JAMES 33000 bordeaux",
+      "rent": 41099,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/224"
     },
     {
       "tool": 48,
