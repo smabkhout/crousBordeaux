@@ -1,16 +1,40 @@
 {
   "totals": {
-    "47": 222,
-    "48": 9999
+    "47": 0,
+    "48": 12
   },
   "items": [
     {
       "tool": 48,
-      "id": 449,
-      "address": "2 RUE DE BUDOS 33000 BORDEAUX",
-      "rent": 35172,
+      "id": 105,
+      "address": "17 RUE DE BUDOS 33000 BORDEAUX",
+      "rent": 40956,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/449"
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/105"
+    },
+    {
+      "tool": 48,
+      "id": 114,
+      "address": "17 RUE DE BUDOS 33000 BORDEAUX",
+      "rent": 52883,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/114"
+    },
+    {
+      "tool": 48,
+      "id": 579,
+      "address": "2 avenue Jean Babin 33600 PESSAC",
+      "rent": 72151,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/579"
+    },
+    {
+      "tool": 48,
+      "id": 584,
+      "address": "2 avenue Jean Babin 33600 PESSAC",
+      "rent": 37925,
+      "bedroomCount": 4,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/584"
     },
     {
       "tool": 48,
@@ -22,11 +46,19 @@
     },
     {
       "tool": 48,
-      "id": 768,
-      "address": "42 rue Sauteyron 33000 BORDEAUX",
-      "rent": 64153,
+      "id": 970,
+      "address": "99-101 COURS DE LA MARNE 33000 BORDEAUX",
+      "rent": 43678,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/768"
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/970"
+    },
+    {
+      "tool": 48,
+      "id": 1971,
+      "address": "10 AV PREVOST 33400 TALENCE",
+      "rent": 42134,
+      "bedroomCount": 4,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1971"
     },
     {
       "tool": 48,
@@ -38,11 +70,19 @@
     },
     {
       "tool": 48,
-      "id": 1905,
-      "address": "Allée Ausone / Avenue Léon Duguit 33600 PESSAC",
-      "rent": 40623,
+      "id": 2249,
+      "address": "9 Esplanade des Antilles 33600 PESSAC",
+      "rent": 26400,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1905"
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2249"
+    },
+    {
+      "tool": 48,
+      "id": 2617,
+      "address": "13 RUE FRANCISCO FERRER 33700 MERIGNAC",
+      "rent": 38635,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2617"
     },
     {
       "tool": 48,
@@ -54,91 +94,11 @@
     },
     {
       "tool": 48,
-      "id": 531,
-      "address": "10 AV PREVOST 33400 TALENCE",
-      "rent": 37439,
-      "bedroomCount": 4,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/531"
-    },
-    {
-      "tool": 48,
-      "id": 105,
-      "address": "17 RUE DE BUDOS 33000 BORDEAUX",
-      "rent": 40956,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/105"
-    },
-    {
-      "tool": 48,
-      "id": 2805,
-      "address": "8 rue des Tulipiers 33170 GRADIGNAN",
-      "rent": 39486,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2805"
-    },
-    {
-      "tool": 48,
-      "id": 2249,
-      "address": "9 Esplanade des Antilles 33600 PESSAC",
-      "rent": 26400,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2249"
-    },
-    {
-      "tool": 48,
-      "id": 2282,
-      "address": "9 Esplanade des Antilles 33600 PESSAC",
-      "rent": 26400,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2282"
-    },
-    {
-      "tool": 48,
       "id": 700,
       "address": "20 avenue de BARDANAC 33600 PESSAC",
       "rent": 26400,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/700"
-    },
-    {
-      "tool": 48,
-      "id": 341,
-      "address": "29 av ABADIE 33100 BORDEAUX",
-      "rent": 38929,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/341"
-    },
-    {
-      "tool": 48,
-      "id": 1606,
-      "address": "32 - 36 CHEMIN DE POMEROL 33000 BORDEAUX",
-      "rent": 46049,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1606"
-    },
-    {
-      "tool": 48,
-      "id": 1483,
-      "address": "AVENUE COLLEGNO 33400 TALENCE",
-      "rent": 28200,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1483"
-    },
-    {
-      "tool": 48,
-      "id": 1902,
-      "address": "7 avenue PEY BERLAND 33600 PESSAC",
-      "rent": 26400,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1902"
-    },
-    {
-      "tool": 48,
-      "id": 224,
-      "address": "57 RUE SAINT JAMES 33000 bordeaux",
-      "rent": 41099,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/224"
     }
   ]
 }
